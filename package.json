@@ -1,0 +1,23 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "simple promise implementation",
+  "main": "promise.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namelos/promise.git"
+  },
+  "keywords": [
+    "promise",
+    "async"
+  ],
+  "author": "namelos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/namelos/promise/issues"
+  },
+  "homepage": "https://github.com/namelos/promise#readme"
+}
